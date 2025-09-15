@@ -1,8 +1,5 @@
 package Model;
 
-// API: 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
-// APP: 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
-
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
