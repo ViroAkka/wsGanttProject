@@ -16,6 +16,9 @@
     <service name="srvUsuario">
       <implementation-class>Servicio.srvUsuario</implementation-class>
     </service>
+    <service name="srvReporte">
+      <implementation-class>Servicio.srvReporte</implementation-class>
+    </service>
   </services>
   <clients/>
 </jax-ws>
